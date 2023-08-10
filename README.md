@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Aydos, a passionate React.js engineer with a strong focus on creating efficient and user-friendly web applications.
 
 <!--
 **AydosJs/Aydosjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
