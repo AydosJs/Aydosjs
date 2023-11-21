@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I'm fascinated by space exploration.**
 
 [![AydosJs's GitHub | Stats](https://stats.quine.sh/AydosJs/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AydosJs)
- [![AydosJs's Stack Overflow | Stats](https://stats.quine.sh/AydosJs/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AydosJs)
+[![AydosJs's GitHub | Dependencies](https://stats.quine.sh/AydosJs/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AydosJs)
 
 
 <h3 align="left">Connect with me:</h3>
