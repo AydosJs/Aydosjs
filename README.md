@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aydos</h1>
 <h3 align="center">Exploring ReactJS: 3 Years of Expertise and Beyond</h3>
 
-- 🌱 I’m trying to learn **Three.js**
-
 - 💬 Ask me about **React.js and Typescript**
 
 - 📫 How to reach me **aydos.dev@gmail.com**
